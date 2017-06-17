@@ -1,0 +1,1 @@
+cd table_genie_api; zip -r --exclude=praw.ini ../table-genie.zip .

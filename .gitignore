@@ -1,0 +1,10 @@
+# IDE stuff
+.idea/*
+
+praw*
+requests*
+update_*
+urllib*
+idna*
+chardet*
+certifi*
